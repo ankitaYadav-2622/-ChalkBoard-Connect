@@ -1,1 +1,1 @@
-# -ChalkBoard-Connect
+# ChalkBoard-Connect
